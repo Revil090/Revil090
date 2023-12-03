@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Revil090
+- 👀 I’m interested in Crypto, exploring new projects, and actively participating in test networks.
+- 🌱 I’m currently learning game development using Unity 3D and 3D modeling with Blender.
+- 💞️ I’m looking to collaborate on innovative crypto projects, game development ventures, and 3D modeling initiatives.
